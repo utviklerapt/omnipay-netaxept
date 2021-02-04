@@ -34,7 +34,7 @@ The following gateways are provided by this package:
 * Netaxept
 
 For general usage instructions, please see the main [Omnipay](https://github.com/thephpleague/omnipay)
-repository.
+repository..
 
 ## Support
 
